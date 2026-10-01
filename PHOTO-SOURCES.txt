@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-071-malone Malone Drywall Systems (Wave 15 2026-10-01 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 15 files: see builds/_assets_dl/wave15/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave15/drywall-seams-coated.jpg : New board with seams and screw heads coated, tool on the floor (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Canaan_Valley_National_Wildlife_Refuge_Drywall_mudded_and_taped_in_restrooms_(49204287278).jpg)
+services-trade.jpg <- wave15/drywall-board-hung.jpg : Room with new board hung on the walls and ceiling, seams not yet finished (rawpixel CC0 1.0 https://www.rawpixel.com/image/9658026/modern-home-interior)
+people-crew.jpg <- wave15/drywall-open-room.jpg : Open walls ready for board (cropped to remove a date stamp) (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/127906254@N06/52360905122)
+people-marek.jpg <- wave15/drywall-sheets-table.jpg : Sheets of board laid on a work table for cutting (flickr CC0 1.0 https://www.flickr.com/photos/37996646802@N01/53435763257)
+people-tom.jpg <- wave15/drywall-corner-hung.jpg : Corner with new board hung, before finishing (cropped to remove a date stamp) (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/127906254@N06/52362269145)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+drywall-open-wall.jpg <- wave15/drywall-open-wall.jpg : Open wall with no board on it yet (cropped to remove a date stamp) (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/127906254@N06/52360905062)
+drywall-room-done.jpg <- wave15/drywall-room-done.jpg : Finished room with smooth new walls and built-in shelves (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/57873306@N00/39063890611)
+drywall-old-panel.jpg <- wave15/drywall-old-panel.jpg : Old wall paneling coming down, before new board goes up (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/57873306@N00/38519092595)
+drywall-room-almost.jpg <- wave15/drywall-room-almost.jpg : Small room with new board hung, nearly finished (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/57873306@N00/28292348580)
+drywall-room-worn.jpg <- wave15/drywall-room-worn.jpg : Worn-out room with damaged walls, before the work starts (stocksnap CC0 1.0 https://stocksnap.io/photo/construction-renovation-XEOT0ES7GA)
+drywall-wall-smooth.jpg <- wave15/drywall-wall-smooth.jpg : Smooth new interior wall, close-up (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=146581447)
+
+Note: New trade (drywall): wave15 set, no person in any photo; three open-wall photos cropped to remove a date stamp. Services come from the packet trade class only, so the page says drywall installation and nothing beyond it. CEO call: no personal name anywhere, only the business wordmark and 'the owner'. The packet's no-DNS malone names are NOT used or linked; domain ideas avoid those strings. The different Redlands drywall business flagged in the packet is not named or confused.
